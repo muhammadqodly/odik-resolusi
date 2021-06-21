@@ -2,5 +2,5 @@ Odik RESOLUSI
 -Belajar
 -Ngonten
 -Taat
--Jago ngoding
 -Web juga
+-Backend
