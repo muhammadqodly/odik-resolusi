@@ -2,5 +2,6 @@ Rencana Belajar Odik:
 -Tutorial video
  #WPU
  #Programer zaman now
+-Hackathon
 -latihan
 -tes koding
