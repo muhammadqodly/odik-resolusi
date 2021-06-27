@@ -1,9 +1,12 @@
 Rencana Belajar Odik:
 -Tutorial video
  #WPU
-  *html
-  *golang
+  *php
+  *css
  #Programer zaman now
+  *js
+-Hackathon
 -latihan
  #vscode
 -tes koding
+-doa
